@@ -3,7 +3,7 @@
 This is a small video game made using libGDX. It is part of a task of the subject programming of the degree in computer engineering. The objective is to move the bubble by avoiding all the obstacles.
 
 <p align="center">
-  <img width="328" height="260" src="https://user-images.githubusercontent.com/18056187/54086217-c0ece380-4347-11e9-9d63-258967273caa.png">
+  <img width="656" height="398" src="https://user-images.githubusercontent.com/18056187/54086783-d0226000-434c-11e9-8360-ef402771fb96.png">
 </p>
 
 
